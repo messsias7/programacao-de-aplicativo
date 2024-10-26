@@ -1,0 +1,14 @@
+C:\Users\messias\Desktop\dotnet\IntroducaoCSharp\bin\Debug\net8.0\IntroducaoCSharp.exe
+C:\Users\messias\Desktop\dotnet\IntroducaoCSharp\bin\Debug\net8.0\IntroducaoCSharp.deps.json
+C:\Users\messias\Desktop\dotnet\IntroducaoCSharp\bin\Debug\net8.0\IntroducaoCSharp.runtimeconfig.json
+C:\Users\messias\Desktop\dotnet\IntroducaoCSharp\bin\Debug\net8.0\IntroducaoCSharp.dll
+C:\Users\messias\Desktop\dotnet\IntroducaoCSharp\bin\Debug\net8.0\IntroducaoCSharp.pdb
+C:\Users\messias\Desktop\dotnet\IntroducaoCSharp\obj\Debug\net8.0\IntroducaoCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\messias\Desktop\dotnet\IntroducaoCSharp\obj\Debug\net8.0\IntroducaoCSharp.AssemblyInfoInputs.cache
+C:\Users\messias\Desktop\dotnet\IntroducaoCSharp\obj\Debug\net8.0\IntroducaoCSharp.AssemblyInfo.cs
+C:\Users\messias\Desktop\dotnet\IntroducaoCSharp\obj\Debug\net8.0\IntroducaoCSharp.csproj.CoreCompileInputs.cache
+C:\Users\messias\Desktop\dotnet\IntroducaoCSharp\obj\Debug\net8.0\IntroducaoCSharp.dll
+C:\Users\messias\Desktop\dotnet\IntroducaoCSharp\obj\Debug\net8.0\refint\IntroducaoCSharp.dll
+C:\Users\messias\Desktop\dotnet\IntroducaoCSharp\obj\Debug\net8.0\IntroducaoCSharp.pdb
+C:\Users\messias\Desktop\dotnet\IntroducaoCSharp\obj\Debug\net8.0\IntroducaoCSharp.genruntimeconfig.cache
+C:\Users\messias\Desktop\dotnet\IntroducaoCSharp\obj\Debug\net8.0\ref\IntroducaoCSharp.dll
